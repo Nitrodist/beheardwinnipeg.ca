@@ -37,7 +37,13 @@ a:visited {
   margin-top: 80px;
   margin-left: auto;
   margin-right: auto;
-  width: 900px; }
+  width: 900px;
+  margin-bottom: 100px; }
+
+.footer {
+  text-align: center;
+  padding-top: 20px;
+  border-top: dashed 2px #3f51b557; }
 
 .header {
   text-align: right;
